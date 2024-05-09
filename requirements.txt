@@ -1,0 +1,8 @@
+jupyter
+ipywidgets
+tqdm
+nest_asyncio
+langchain
+lxml
+sentence-transformers
+pinecone-client
